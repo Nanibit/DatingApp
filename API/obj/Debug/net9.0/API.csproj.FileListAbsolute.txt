@@ -31,3 +31,4 @@ C:\Users\PG022074\source\repos\Angular\DatingApp\API\obj\Debug\net9.0\refint\API
 C:\Users\PG022074\source\repos\Angular\DatingApp\API\obj\Debug\net9.0\API.pdb
 C:\Users\PG022074\source\repos\Angular\DatingApp\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\PG022074\source\repos\Angular\DatingApp\API\obj\Debug\net9.0\ref\API.dll
+C:\Users\PG022074\source\repos\Angular\DatingApp\API\obj\Debug\net9.0\API.sourcelink.json
