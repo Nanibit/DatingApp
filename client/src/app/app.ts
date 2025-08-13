@@ -15,7 +15,7 @@ export class App implements OnInit {
     // el Get devuelve un observable (herramienta para gestionar flujos de datos asíncronos)
     // por lo que hay que suscribirse
     this.http.get('https://localhost:5001/api/members').subscribe({
-      next: Response => console.log('next: ', Response),
+      next: Response => console.log(Response),
       error: error => console.error('There was an error!', error),
       complete: () => console.log('Request completed')
     })
