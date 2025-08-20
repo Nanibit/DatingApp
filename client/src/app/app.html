@@ -1,7 +1,23 @@
-<h1>{{title}}</h1>
+<div class="card bg-base-100 w-1/2 mx-auto p-10 mt-10 shadow-xl">
+    <h3 class="text-3xl text-red-500">{{title}}</h3>
+    <ul class="list">
+        @for (member of members(); track member.id) {
+            <li class="list-row items-center">
+                <img src="/user.png" alt="user avatar" class="size-12 rounded-box">
+                <div>
+                    {{member.displayName}}
+                </div>
+        }
+    </ul>
+</div>
 
-<ul>
-    @for (member of members(); track member.id) {
-        <li>{{member.id}} - {{member.displayName}}</li>
-    }
-</ul>
+<!-- 
+bg-base -100 is a Tailwind CSS class for background color
+w-1/2 sets the width to 50%
+mx-auto centers the card horizontally
+p-10 adds padding of 10 units
+mt-10 adds a top margin of 10 units
+shadow-xl adds a large shadow effect to the card
+-->
+
+<!-- <button class="btn btn-primary">Primary</button> -->
