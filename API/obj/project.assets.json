@@ -3082,23 +3082,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nanibit\\.nuget\\packages\\": {},
+    "C:\\Users\\PG022074\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nanibit\\source\\repos\\Tutoriales\\ASPNET Core and Angular\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\PG022074\\source\\repos\\Angular\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Nanibit\\source\\repos\\Tutoriales\\ASPNET Core and Angular\\DatingApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Nanibit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nanibit\\source\\repos\\Tutoriales\\ASPNET Core and Angular\\DatingApp\\API\\obj\\",
+      "projectPath": "C:\\Users\\PG022074\\source\\repos\\Angular\\DatingApp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\PG022074\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PG022074\\source\\repos\\Angular\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nanibit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PG022074\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3160,7 +3160,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
